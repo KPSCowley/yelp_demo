@@ -17,3 +17,4 @@ gem 'pg', group: :production
 gem 'carrierwave'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'figaro'
+gem 'mini_magick'
